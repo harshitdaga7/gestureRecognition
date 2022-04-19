@@ -1,0 +1,11 @@
+{
+    "i":"",
+    "open":"volumeup",
+    "close":"volumedown",
+    "stop":"",
+    "clockwise":"left",
+    "linear_moving":"",
+    "anticlockwise":"right"
+
+
+}
